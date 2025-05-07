@@ -1,5 +1,3 @@
-// import { motion } from 'framer-motion'
-
 const ServiceCard = ({ title, description, icon: Icon, color }) => {
   const bgColorClass = `bg-${color}-50 dark:bg-${color}-900/20`
   const textColorClass = `text-${color}-500`
