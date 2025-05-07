@@ -1,5 +1,3 @@
-// import { motion } from 'framer-motion'
-
 const SectionHeading = ({ title, subtitle, centered = false }) => {
   return (
     <div 
