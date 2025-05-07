@@ -1,5 +1,3 @@
-// import { motion } from 'framer-motion'
-
 const ProcessStep = ({ icon: Icon, title, description, index }) => {
   return (
     <div 
